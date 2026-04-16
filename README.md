@@ -19,7 +19,7 @@ A snake-style arcade game inspired by Slither.io, built with **Cocos2d-x** (C++)
 - Leaderboard currently shows only the current player (single-player mode)
 - Online multiplayer not yet implemented
   
- --
+ ---
  
 <img width="1271" height="677" alt="image" src="https://github.com/user-attachments/assets/392d7150-9b31-4d5a-b9e2-d761c8a4c771" />
 <img width="1274" height="676" alt="image" src="https://github.com/user-attachments/assets/10cfe72f-c6ec-4304-8872-64d2f73957bb" />
